@@ -1,0 +1,10 @@
+Toyota;Corolla;2020;18000;1.8
+BMW;X5;2022;52000;3.0
+Audi;A4;2019;23000;2.0
+Tesla;Model 3;2023;35000;0
+Honda;Civic;2021;21000;1.5
+Ford;Focus;2018;12000;1.6
+Skoda;Octavia;2020;17000;1.4
+Volkswagen;Golf;2019;16000;1.6
+Hyundai;Tucson;2022;28000;2.0
+Mazda;CX-5;2021;26000;2.5
